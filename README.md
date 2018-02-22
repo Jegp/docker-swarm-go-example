@@ -41,3 +41,7 @@ zq1ojiweikoz         \_ webserver.5     helgecph/swarmserver:latest   node-2    
 z5qhabgm7mcd         \_ webserver.5     helgecph/swarmserver:latest   node-0              Shutdown            Complete 8 minutes ago
 zhts8iziut5j         \_ webserver.5     helgecph/swarmserver:latest   node-1              Shutdown            Complete 12 minutes ago
 ```
+
+## Credits
+This work was masterfully done by [Helge](https://github.com/helgecph) and should be attributed as
+such.
